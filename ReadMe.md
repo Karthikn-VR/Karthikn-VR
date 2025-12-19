@@ -53,13 +53,6 @@ I enjoy solving problems, building real-world projects, and exploring **Cloud, W
 
 ---
 
-### GitHub Stats  
-
-| <a href="https://github.com/Karthikn-VR"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthikn-VR&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Karthik's GitHub stats" /></a> | <a href="https://github.com/Karthikn-VR"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-VR&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
 <p align="center">
   <a href="https://in.linkedin.com/in/karthikeyan-v-r-434268274">LinkedIn</a> • 
   <a href="https://github.com/Karthikn-VR">GitHub</a>
